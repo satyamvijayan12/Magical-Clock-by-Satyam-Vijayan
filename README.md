@@ -21,7 +21,7 @@ python magical_clock.py
 
 **CLOCK INTERFACE**
 
-![alt text](<magic clock-1.png>)
+![clock_image](<magic clock-1.png>)
 
 **Contributions**
 - Feel free to sprinkle your own magic into this project! Whether it’s adding new features, fixing bugs, or enhancing the aesthetics, contributions are always welcome. 🌟
